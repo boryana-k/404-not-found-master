@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-devchallenges.netlify.app/">
+    <a href="https://boryana-k.github.io/404-not-found-master/">
       Demo
     </a>
     <span> | </span>
